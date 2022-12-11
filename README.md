@@ -1,1 +1,1 @@
-https://BiscuitDream.github.io/rsschool-cv/cv
+https://biscuitdream.github.io/rsschool-cv/cv
